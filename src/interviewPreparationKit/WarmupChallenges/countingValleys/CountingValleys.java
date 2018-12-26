@@ -1,4 +1,4 @@
-package InterviewPreparationKit.countingValleys;
+package interviewPreparationKit.WarmupChallenges.countingValleys;
 
 import java.io.IOException;
 import java.util.Scanner;
