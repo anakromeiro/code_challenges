@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package day0;
+package thirtyDaysOfCode.day0;
 
 import java.util.Scanner;
 
